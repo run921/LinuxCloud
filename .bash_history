@@ -4202,3 +4202,39 @@ touch .gitignore
 git status 
 #1603697409
 ll -a
+#1603697482
+git add .
+#1603697486
+git status 
+#1603697551
+ 
+#1603697572
+git -r rm --cached *
+#1603697586
+git rm -r --cached *
+#1603697607
+git status 
+#1603697634
+. .gitignore 
+#1603697637
+git status 
+#1603697810
+git add .gitignore
+#1603697814
+git status 
+#1603697889
+git commit -m "add .gitignore"
+#1603697915
+git status 
+#1603698020
+git remote add cloud git@github.com:run921/LinuxCloud.git
+#1603698065
+git push cloud master 
+#1603698182
+git status 
+#1603698444
+git commit -m "nothing"
+#1603698866
+ll -a
+#1603698872
+vi .gitignore 

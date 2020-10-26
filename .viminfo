@@ -17,9 +17,9 @@
 $
 
 # Command Line History (newest to oldest):
+:wq
 :q
 :Q
-:wq
 :set nonu
 :nonu
 :42
@@ -139,17 +139,18 @@ $
 	`
 
 # File marks:
-'0  1  0  ~/.git/config
-'1  1  0  ~/.git
-'2  1  0  ~/.git/info/exclude
-'3  1  0  ~/.git/description
-'4  1  0  ~/.git/HEAD
-'6  1  0  ~/.ssh/id_rsa.pub
-'7  1  0  /usr/bin/redis
-'8  1  0  ~/UNP/getSerTime.c
-'9  28  0  ~/cppLearn/Makefile
+'0  1  1  ~/.gitignore
+'1  1  0  ~/.git/config
+'2  1  0  ~/.git
+'3  1  0  ~/.git/info/exclude
+'4  1  0  ~/.git/description
+'5  1  0  ~/.git/HEAD
+'7  1  0  ~/.ssh/id_rsa.pub
+'8  1  0  /usr/bin/redis
+'9  1  0  ~/UNP/getSerTime.c
 
 # Jumplist (newest first):
+-'  1  1  ~/.gitignore
 -'  1  0  ~/.git/config
 -'  1  0  ~/.git
 -'  1  0  ~/.git/info/exclude
@@ -250,6 +251,12 @@ $
 
 # History of marks within files (newest to oldest):
 
+> ~/.gitignore
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
 > ~/.git/config
 	"	1	0
 
@@ -323,6 +330,3 @@ $
 
 > ~/.bash_profile
 	"	12	0
-
-> ~/.bash_history
-	"	385	0
