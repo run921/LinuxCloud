@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/zhiqiang/UNP/unpv13e'
+let g:netrw_dirhist_2='/home/zhiqiang/.config'
+let g:netrw_dirhist_3='/home/zhiqiang/.vim'
+let g:netrw_dirhist_4='/home/zhiqiang/.git'

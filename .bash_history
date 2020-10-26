@@ -1,0 +1,4204 @@
+#1594284376
+ll
+#1594284450
+tar -xvf my.tar 
+#1594284452
+ll
+#1594284462
+rm my.tar 
+#1594284463
+ll
+#1594284469
+g++ -v
+#1594284549
+ll
+#1594284552
+alias
+#1594284578
+echo $PS1
+#1594284694
+cd
+#1594284700
+ls -a
+#1594284709
+vi .bashrc 
+#1594284817
+bahs
+#1594284819
+bahs
+#1594284827
+cd ~
+#1594284828
+ll
+#1594284840
+cd cppLearn/
+#1594284846
+cd ..
+#1594284853
+vi .bashrc 
+#1594284871
+ll
+#1594284874
+vi .bashrc 
+#1594284895
+ll
+#1594284904
+cd cppLearn/
+#1594284918
+g++
+#1594284924
+gcc -v
+#1594284933
+gdb -v
+#1594284953
+df -h
+#1594284972
+echo $UID
+#1594285008
+ulimit -c
+#1594285012
+cd ..
+#1594285014
+ll
+#1594285017
+ls -a
+#1594285025
+vi .bashrc 
+#1594285076
+ulimit -c
+#1594285081
+ls -0a
+#1594285083
+ll
+#1594285087
+cd  coreTest/
+#1594285088
+ll
+#1594285176
+yum
+#1594285333
+yum install g++
+#1594285384
+sudo -
+#1594285500
+su - root
+#1594286568
+yum info g++
+#1594286615
+ps -elf
+#1594286691
+ps -elf|grep yum
+#1594288390
+ll
+#1594288446
+yum list g++
+#1594288467
+yum info g++
+#1594288579
+yum install gcc-c++
+#1594288608
+vim /etc/yum/pluginconf.d/fastestmirror.conf
+#1594288676
+yum claen all
+#1594288691
+yum clean all
+#1594288747
+yum makecache
+#1594288766
+yum info g++
+#1594288787
+yum clean all
+#1594288817
+vim /etc/yum.conf
+#1594288896
+vim /etc/yum.conf
+#1594288903
+vim /etc/yum.conf
+#1594288943
+sudo vim /etc/yum.conf
+#1594288954
+sudo vim /etc/yum.conf
+#1594288962
+vim /etc/yum.conf
+#1594288979
+su
+#1594289018
+yum info g++
+#1594289044
+yum install gcc-c++
+#1594289048
+su 
+#1594289067
+su
+#1594289216
+ll
+#1594289218
+cd c
+#1594289220
+cd cppLearn/
+#1594289221
+ll
+#1594289228
+make
+#1594289240
+vi Makefile
+#1594289280
+make
+#1594289283
+ll
+#1594289288
+./edit 1234
+#1594294411
+ll
+#1594294419
+cd coreTest/
+#1594294420
+ll
+#1594284821
+bash
+#1594285070
+bash
+#1594284866
+bash
+#1594284893
+bash
+#1594294437
+gdb core.8912 
+#1594303168
+ll
+#1594303174
+cd 
+#1594303175
+ll
+#1594303242
+df -h
+#1594304227
+man 7 ip
+#1594304254
+man 7 ip
+#1594304301
+ip -V
+#1594304364
+man ip
+#1594305488
+ll
+#1594305491
+cd cppLearn/
+#1594305492
+ll
+#1594305503
+readelf -S edit 
+#1594305511
+nm edit 
+#1594305525
+file edit 
+#1594305736
+ll
+#1594305740
+cd ..
+#1594305758
+mkdir Test_Test
+#1594305762
+cd Test_Test/
+#1594305763
+ll
+#1594305770
+alias
+#1594305784
+vi test.c
+#1594305985
+gcc test.c 
+#1594305987
+ll
+#1594305991
+./a.out 
+#1594306243
+vi test.c 
+#1594306368
+gcc test.c 
+#1594306371
+./a.out 
+#1594308371
+cd
+#1594308376
+cd cppLearn/
+#1594308377
+ll
+#1594308383
+vim Makefile
+#1594308488
+make clean
+#1594308490
+make
+#1594308519
+vim Makefile
+#1594308561
+make
+#1594308721
+cd cppLearn/
+#1594308723
+ll
+#1594308729
+make
+#1594308800
+make
+#1594308804
+ll
+#1594308854
+./test.o 1234
+#1594308870
+chmod +x test.o
+#1594308877
+./test.o 123
+#1594308938
+make clean
+#1594308949
+ll
+#1594308955
+make
+#1594308972
+make
+#1594309003
+make
+#1594309045
+make
+#1594309047
+ll
+#1594309132
+make
+#1594309139
+make
+#1594309142
+ll
+#1594309147
+./all 1232
+#1594309186
+cd
+#1594309189
+ll
+#1594309194
+cd Test_Test/
+#1594309195
+ll
+#1594308600
+vi Makefile
+#1594309199
+vi test.c 
+#1594309444
+vi test.c 
+#1594309461
+gcc test.c 
+#1594309480
+vi test.c 
+#1594309492
+gcc test.c 
+#1594309496
+./a.out 
+#1594309597
+gcc test.c 
+#1594309600
+vi test.c 
+#1594309715
+gcc test.c 
+#1594309729
+vi test.c 
+#1594309746
+gcc test.c 
+#1594309749
+./a.out 
+#1594309868
+vi test.c 
+#1594342264
+ll
+#1594342557
+cd coreTest/
+#1594342558
+ll
+#1594342566
+file Test
+#1594342574
+strip Test
+#1594342578
+file Test
+#1594342611
+readelf -S Test|grep debug
+#1594342616
+readelf -S Test
+#1594342625
+gdb Test
+#1594342704
+ulimit -c
+#1594342720
+alias
+#1594342724
+cd
+#1594342726
+ll
+#1594342729
+la -a
+#1594342731
+ls -a
+#1594342739
+vi .bashrc 
+#1594342763
+ulimit -c
+#1594342767
+ulimit
+#1594342778
+ulimit -c
+#1594342852
+cd coreTest/
+#1594342854
+ll
+#1594342880
+objdump -d Test
+#1594342907
+ll
+#1594342997
+objdump -d Test>hello
+#1594342999
+ll
+#1594343003
+vi hello
+#1594343042
+chmod +x hello 
+#1594343046
+./hello 
+#1594343066
+hello 
+#1594343073
+rm hello 
+#1594343074
+ll
+#1594343112
+gdb Test core.8912 
+#1594343129
+rm Test
+#1594343133
+rm core.8912 
+#1594343134
+ll
+#1594343141
+gcc -g Test.c 
+#1594343143
+ll
+#1594343150
+./a.out 
+#1594343162
+ll
+#1594343169
+gdb a.out core.3916 
+#1594343217
+dmesg
+#1594343517
+man dmesg
+#1594344160
+yum info oracle11g
+#1594344238
+yum list installed
+#1594344321
+yum search oracle
+#1594344347
+yum search oracle11g
+#1594344378
+yum clean
+#1594344605
+ll
+#1594344610
+ls -a
+#1594344933
+cd ../cppLearn/
+#1594344934
+ll
+#1594344944
+tree
+#1594344994
+ll
+#1594344996
+cd ..
+#1594345000
+cd coreTest/
+#1594345001
+ll
+#1594345016
+mkdir GDB
+#1594345017
+ll
+#1594345020
+cd GDB/
+#1594345023
+vi 
+#1594345038
+vi teat.c
+#1594345089
+gcc -o test -g teat.c 
+#1594345091
+ll
+#1594345110
+vi teat.c
+#1594345118
+cd
+#1594345121
+ls -a
+#1594345129
+vi .bashrc 
+#1594345181
+cd -
+#1594345234
+cd coreTest/GDB/
+#1594345235
+ll
+#1594345255
+mv teat.c test.c
+#1594345277
+gcc -o test -g test.c 
+#1594345278
+ll
+#1594345284
+vi test.c 
+#1594345316
+cd -
+#1594345318
+ll
+#1594345324
+ls -a
+#1594345338
+vi .bashrc 
+#1594345362
+cd /
+#1594345363
+ll
+#1594345366
+ls -a
+#1594345389
+cd etc/
+#1594345390
+ll
+#1594345405
+ll -F
+#1594345417
+vi vimrc
+#1594345441
+cd yum
+#1594345443
+ll
+#1594345448
+ll -F
+#1594345458
+ll -f
+#1594345591
+alias
+#1594345616
+cd ../..
+#1594345618
+ll
+#1594345622
+la -a
+#1594345627
+ls -a
+#1594345631
+cd etc/
+#1594345632
+ll
+#1594345638
+alias
+#1594345667
+vi profile
+#1594345724
+ls *profile*
+#1594345755
+cd ~
+#1594345756
+ll
+#1594345896
+ll
+#1594345919
+cd coreTest/
+#1594345920
+ll
+#1594345925
+cd GDB/
+#1594345928
+cd /
+#1594345931
+cd ~
+#1594345934
+ll
+#1594345937
+ls -a
+#1594345946
+vim .vimrc
+#1594345979
+vim coreTest/GDB/test.c 
+#1594345991
+cd coreTest/GDB/
+#1594345997
+vi test.c 
+#1594346021
+ll
+#1594346026
+gdb test
+#1594346284
+cd coreTest/GDB/
+#1594346286
+ll
+#1594346332
+cd ..
+#1594346333
+ll
+#1594346336
+cd ,,
+#1594346342
+cd GDB/
+#1594346343
+ll
+#1594346355
+vi test.c 
+#1594346379
+gdb
+#1594347527
+whereis vim
+#1594347555
+whereis g++
+#1594347571
+cd cv
+#1594347602
+cd /usr/share/man/man1/
+#1594347606
+ll
+#1594347643
+clear
+#1594347654
+ls 
+#1594347670
+cd ..
+#1594347671
+ll
+#1594347759
+cd zh_TW
+#1594347761
+ll
+#1594347772
+cd man1
+#1594347773
+ll
+#1594347782
+cd 
+#1594347788
+cd coreTest/GDB/
+#1594347789
+ll
+#1594349072
+wget -v
+#1594349084
+wget --help
+#1594349271
+wget -S www.baidu.com
+#1594349591
+ll
+#1594349600
+vim /etc/ssh/sshd_config
+#1594349619
+cd /etc/ssh/
+#1594349621
+ll
+#1594349631
+ls -a
+#1594349638
+ll -aF
+#1594349702
+cat /var/log/secure | awk '/Failed/{print $(NF-3)}' | sort | uniq -c | awk '{print $2" = "$1;}'
+#1594349708
+sudo cat /var/log/secure | awk '/Failed/{print $(NF-3)}' | sort | uniq -c | awk '{print $2" = "$1;}'
+#1594349805
+clear
+#1594350118
+sudo 
+#1594350159
+cat /var/log/secure | awk '/Failed/{print $(NF-3)}' | sort | uniq -c | awk '{print $2" = "$1;}'
+#1594350165
+sudo cat /var/log/secure | awk '/Failed/{print $(NF-3)}' | sort | uniq -c | awk '{print $2" = "$1;}'
+#1594350340
+vim /etc/init.d/iptables
+#1594350351
+cd /etc/init.d
+#1594350352
+ll
+#1594350361
+ls -a
+#1594350364
+cd ..
+#1594350366
+ll
+#1594350374
+cd -
+#1594350376
+ll
+#1594350395
+vi network vi network 
+#1594350544
+cd /var/log/secure
+#1594350562
+cd /var/log
+#1594350564
+ll
+#1594350575
+ll -F
+#1594350582
+vi secusr
+#1594350599
+vi secusre
+#1594350621
+vim secure
+#1594351069
+cd /etc/sysconfig/
+#1594351071
+ll
+#1594351126
+cd /etc/init.d/
+#1594351127
+ll
+#1594351924
+rpm -qa|grep iptables
+#1594351947
+service  iptables status 
+#1594351980
+iptables -L
+#1594342754
+bash;
+#1594345176
+bash
+#1594342758
+bash
+#1594346242
+vi test.c 
+#1594357013
+ll
+#1594364924
+cat /var/log/secure | awk '/Failed/{print $(NF-3)}' | sort | uniq -c | awk '{print $2" = "$1;}'
+#1594364929
+sudo cat /var/log/secure | awk '/Failed/{print $(NF-3)}' | sort | uniq -c | awk '{print $2" = "$1;}'
+#1594368092
+ll
+#1594368114
+mkdir IOfile
+#1594368117
+cd IOfile/
+#1594368118
+ll
+#1594368910
+vim -V
+#1594369034
+vim --version
+#1594368151
+vim test.cpp
+#1594369862
+ll
+#1594369879
+g++ test.cpp 
+#1594369890
+vim test.cpp
+#1594369904
+g++ test.cpp 
+#1594369906
+ll
+#1594369923
+touch hello.txt
+#1594369924
+ll
+#1594369928
+./a.out 
+#1594370099
+ll
+#1594370103
+vi hello.txt 
+#1594372447
+git -V
+#1594372915
+df -h
+#1594373341
+ping www.google.com
+#1594373370
+ping www.baidu.com
+#1594370761
+vi test.cpp 
+#1594375187
+vi test.cpp 
+#1594454220
+ll
+#1594454239
+ll
+#1594454254
+man 7 ip
+#1594454293
+man ip
+#1594454332
+man -4 ip
+#1594454343
+man 4 ip
+#1594455644
+ll
+#1594455652
+cd coreTest/
+#1594455653
+ll
+#1594455664
+readelf -h a.out 
+#1594455887
+man htonl
+#1594455909
+man htonl
+#1594455982
+info --help
+#1594456149
+ll
+#1594456151
+cd ..
+#1594456152
+ll
+#1594456155
+cd Test_Test/
+#1594456156
+ll
+#1594456231
+man man
+#1594456256
+man cout
+#1594456269
+man 3 printf
+#1594458498
+man socket
+#1594458693
+ll
+#1594458696
+cd Test_Test/
+#1594458698
+ll
+#1594458759
+cd ..
+#1594458798
+mv Test_Test Test_Socket
+#1594458799
+ll
+#1594458803
+cd t
+#1594458806
+cd Test_Socket/'
+l
+;
+
+q
+;
+'
+#1594458836
+cd Test_Socket/
+#1594458837
+ll
+#1594456159
+vim test.c 
+#1594475684
+man socket
+#1594477742
+ll
+#1594458886
+vim echosrv.c
+#1594477761
+ll
+#1594477764
+cd
+#1594477766
+ll
+#1594477770
+cd Test_Socket/
+#1594477771
+ll
+#1594477778
+ls -a
+#1594477785
+vi echosrv.c 
+#1594477798
+rm .echosrv.c.swp 
+#1594477801
+vi echosrv.c 
+#1594479529
+ll
+#1594479551
+rm a.out 
+#1594479553
+lll
+#1594479554
+ll
+#1594479573
+gcc -o echosrv echosrv.c 
+#1594479595
+vi echosrv.c 
+#1594479664
+gcc -o echosrv echosrv.c 
+#1594479717
+vi echosrv.c 
+#1594479739
+vi echosrv.c 
+#1594479792
+vi echosrv.c 
+#1594479838
+cd Test_Socket/
+#1594479839
+ll
+#1594479904
+gcc -o echosrv echosrv.c 
+#1594479918
+ll
+#1594479926
+clear
+#1594479927
+ll
+#1594479930
+gcc -o echosrv echosrv.c 
+#1594479975
+:3
+#1594480102
+cp echosrv.c echocli.c
+#1594480103
+ll
+#1594480110
+vi echocli.c 
+#1594481255
+l
+#1594481256
+ll
+#1594481264
+vi Makefile
+#1594481278
+ll
+#1594481317
+gcc -o echosrv echosrv.c 
+#1594481346
+gcc -o echocli echocli.c 
+#1594479842
+vi echosrv.c 
+#1594481513
+ll
+#1594481517
+gcc -o echocli echocli.c 
+#1594481522
+ll
+#1594481377
+vi echocli.c 
+#1594481583
+ll
+#1594481602
+./echocli 
+#1594481592
+./echosrv 
+#1594481667
+vi echocli.c 
+#1594481813
+gcc -o echocli echocli.c 
+#1594481817
+ll
+#1594481872
+rm echocli echosrv
+#1594481873
+ll
+#1594481879
+vim makefile
+#1594481888
+vim Makefile
+#1594482121
+make
+#1594482158
+ll
+#1594482198
+./echosrv 
+#1594482175
+./echocli 
+#1594482215
+./echosrv 
+#1594482221
+./echosrv 
+#1594482250
+./echosrv 
+#1594482257
+./echosrv 
+#1594482259
+./echosrv 
+#1594482255
+./echocli 
+#1594482312
+./echosrv 
+#1594482314
+./echosrv 
+#1594482318
+ls 
+#1594482320
+./echosrv 
+#1594482338
+./echosrv 
+#1594482362
+ps -ef|grep 5188
+#1594482378
+kill -9 5188
+#1594482426
+ll
+#1594482432
+vi echosrv.c 
+#1594482520
+netstat  -anp  |grep 5188
+#1594482578
+netstat
+#1594482625
+netstat |grep 5188
+#1594482659
+netstat  -anp  |grep 5188
+#1594482727
+kill -9 18378
+#1594482745
+kill -9 20136
+#1594482760
+kill -9 20392
+#1594482783
+kill -9 18403
+#1594482787
+netstat  -anp  |grep 5188
+#1594482804
+./echocli 
+#1594482897
+./echocli 
+#1594482891
+./echosrv 
+#1594482953
+netstat -anp|grep 5188
+#1594482992
+kill -9 22288
+#1594482999
+kill -9 22312
+#1594483002
+ll
+#1594483004
+netstat -anp|grep 5188
+#1594483061
+jobs
+#1594483065
+jobs
+#1594483074
+jobs
+#1594483378
+vi echosrv.c 
+#1594483782
+vi echosrv.c 
+#1594545416
+ll
+#1594545420
+cd Test_Socket/
+#1594545421
+ll
+#1594545428
+vi echosrv.c 
+#1594545707
+make
+#1594545720
+ll
+#1594545735
+cd Test_Socket/
+#1594545736
+ll
+#1594545745
+./echocli 
+#1594545766
+./echocli 
+#1594545838
+netstat |grep 5188
+#1594545858
+netstat -n |grep 5188
+#1594545870
+netstat -na |grep 5188
+#1594545881
+netstat -nap |grep 5188
+#1594545759
+./echosrv 
+#1594545935
+vi echosrv.c 
+#1594546102
+./echosrv 
+#1594546106
+./echosrv 
+#1594546934
+vi echosrv.c 
+#1594547020
+ll
+#1594547375
+ll
+#1594547378
+cd Test_Socket/
+#1594547379
+ll
+#1594552790
+vi echosrv.c 
+#1594552998
+make
+#1594553008
+vi echosrv.c 
+#1594553022
+make
+#1594553030
+vi echosrv.c 
+#1594553047
+vi echosrv.c 
+#1594553053
+make
+#1594553057
+ll
+#1594553069
+cd Test_Socket/
+#1594553109
+./echocli 
+#1594553091
+./echosrv 
+#1594553126
+./echosrv 
+#1594553132
+./echosrv 
+#1594553134
+./echosrv 
+#1594553129
+./echocli 
+#1594553172
+netstat -na|grep 5188
+#1594553251
+./echosrv 
+#1594553252
+./echosrv 
+#1594553280
+kill .echocli
+#1594553297
+netstat -nap|grep 5188
+#1594556041
+netstat -nap|grep 5188
+#1594556050
+kill 2681
+#1594556059
+kill 2756
+#1594556068
+kill 2814
+#1594556072
+netstat -nap|grep 5188
+#1594556101
+netstat -ap|grep 5188
+#1594556711
+./echosrv 
+#1594556713
+./echosrv 
+#1594556834
+ netstat -tunlp|grep 5188
+#1594556856
+kill 2681
+#1594556859
+ll
+#1594556863
+ netstat -tunlp|grep 5188
+#1594556870
+./echosrv 
+#1594556898
+netstat -tulp
+#1594556911
+kill -9 2681
+#1594556917
+netstat -tulp
+#1594556946
+cd Test_Socket/
+#1594556951
+./echocli 
+#1594556929
+./echocli 
+#1594556921
+./echosrv 
+#1594556995
+./echosrv 
+#1594557004
+netstat -tulp
+#1594559316
+man setsockopt
+#1594559455
+make
+#1594559273
+vi echosrv.c 
+#1594559471
+./echosrv 
+#1594559462
+./echocli 
+#1594559491
+netstat -nap|grep 5188
+#1594559510
+kill -9 13968
+#1594559522
+kill -9 21520
+#1594559535
+kill -9 2756
+#1594559550
+kill -9 13988
+#1594559556
+netstat -nap|grep 5188
+#1594559586
+./echocli 
+#1594559582
+./echosrv 
+#1594559619
+./echosrv 
+#1594563825
+ll
+#1594563844
+cp echosrv.c echosrv2.c
+#1594563860
+cp echocli.c echocli2.c
+#1594564933
+vim Makefile 
+#1594565010
+make
+#1594565094
+vim Makefile 
+#1594565104
+make
+#1594565110
+ll
+#1594563868
+vim echosrv2.c 
+#1594565134
+cd Test_Socket/
+#1594565147
+./echosrv2
+#1594565143
+./echocli
+#1594565942
+nestat -an |grep TIME_WAIT
+#1594565960
+nestat -an |grep 5188
+#1594565975
+netstat -an |grep TIME_WAIT
+#1594565982
+netstat -an |grep 5188
+#1594566118
+vi echosrv.c 
+#1594566790
+netstat -ap|grep 5188
+#1594566803
+kill -9 21873
+#1594566816
+kill -9 5921
+#1594566828
+kill -9 21889
+#1594566832
+netstat -ap|grep 5188
+#1594565822
+vi echosrv.c 
+#1594566861
+./echocli
+#1594566851
+./echosrv2 
+#1594566905
+vi echosrv2.c 
+#1594567019
+make
+#1594567026
+vi echosrv2.c 
+#1594567063
+:q
+#1594567065
+vi echosrv2.c 
+#1594567105
+make
+#1594567126
+netstat -ap|grep 5188
+#1594567139
+kill -9 11009
+#1594567147
+kill -9 11041
+#1594567156
+kill -9 11074
+#1594566874
+./echocli
+#1594567157
+ll
+#1594567161
+netstat -ap|grep 5188
+#1594567212
+cd Test_Socket/
+#1594567217
+./echocli
+#1594567174
+./echosrv2
+#1594567184
+./echocli
+#1594567195
+./echocli
+#1594567617
+lsof -i:5188
+#1594567652
+sudo kill -9 $(lsof -i:5188 -t)
+#1594567681
+netstat -ap|grep 5188
+#1594567279
+vi echosrv2.c 
+#1594625519
+ll
+#1594626088
+cd Test_Socket/
+#1594626089
+ll
+#1594626092
+cd ..
+#1594626093
+ll
+#1594626098
+cd -
+#1594626101
+ll
+#1594626119
+cp Makefile ../Makefile
+#1594626121
+ll
+#1594626123
+cd ..
+#1594626124
+ll
+#1594626142
+cd coreTest/
+#1594626143
+ll
+#1594627186
+ll
+#1594627193
+cd cppLearn/
+#1594627194
+ll
+#1594627212
+cd ..
+#1594627238
+mkdir get_set_EVN
+#1594627250
+vim test.c
+#1594627444
+gcc test.c 
+#1594627451
+vim test.c
+#1594627480
+gcc test.c 
+#1594627485
+./a.out 
+#1594627494
+vim test.c
+#1594627510
+gcc test.c 
+#1594627513
+./a.out 
+#1594627523
+vim test.c
+#1594627587
+gcc test.c 
+#1594627589
+./a.out 
+#1594688367
+cd Test_Socket/
+#1594688368
+ll
+#1594688379
+vi echosrv2.c 
+#1594710738
+ll
+#1594710743
+vi test.c 
+#1594710848
+gcc test.c 
+#1594710873
+g++ test.cpp
+#1594710889
+mv test.c test.cpp
+#1594710893
+g++ test.cpp 
+#1594710900
+vi test.cpp 
+#1594710938
+g++ test.cpp 
+#1594710949
+vi test.cpp 
+#1594710957
+g++ test.cpp 
+#1594710972
+vi test.cpp 
+#1594710988
+g++ test.cpp 
+#1594710991
+./a.out 
+#1594710998
+g++ test.cpp 
+#1594710999
+g++ test.cpp 
+#1594711002
+vi test.cpp 
+#1594711033
+g++ test.cpp 
+#1594711038
+vi test.cpp 
+#1594711048
+g++ test.cpp 
+#1594711050
+./a.out 
+#1594711081
+vi test.cpp 
+#1594714086
+ll
+#1594714090
+cd Test_Socket/
+#1594714091
+ll
+#1594716093
+vi test.c 
+#1594716101
+ls -a
+#1594716111
+vi test.c 
+#1594716124
+rm .test.c.swp 
+#1594716127
+cd ..
+#1594716129
+ll
+#1594716133
+vi test.cpp 
+#1594716181
+g++ test.cpp 
+#1594716188
+./a.out 
+#1594716190
+:q
+#1594716193
+g++ test.cpp 
+#1594716199
+vi test.cpp 
+#1594730860
+ll
+#1594730866
+cd Test_Socket/
+#1594730867
+ll
+#1594730934
+vi echosrv2.c 
+#1594731194
+netstat -ap|grep 5188
+#1594731206
+netstat -a|grep 5188
+#1594731214
+netstat -a
+#1594731496
+cd Test_Socket/
+#1594731497
+ll
+#1594739440
+cd Test_Socket/
+#1594739441
+ll
+#1594731514
+vi echocli.c 
+#1594739593
+vi echosrv2.c 
+#1594731407
+vi echosrv2.c 
+#1594775274
+ll
+#1594775346
+vim test.cpp 
+#1594776207
+cd Test_Socket/
+#1594776208
+ll
+#1594776215
+vi echosrv2.c 
+#1594777999
+vi echosrv2.c 
+#1594823695
+ll
+#1594823707
+ci test.cpp 
+#1594823710
+vi test.cpp 
+#1594823788
+mv test.cpp test.c
+#1594823791
+gcc test.c 
+#1594823793
+./a.out 
+#1594823799
+ll
+#1594823809
+gdb test.c c
+#1594823865
+gdb test.c core.29584 
+#1594823905
+gdb a.out core.29584 
+#1594823954
+vi test.c 
+#1594823981
+gcc test.c 
+#1594823984
+./a
+#1594823991
+./a.out 
+#1594824085
+gdb a.out core.
+#1594824151
+vi test.c 
+#1594824206
+gcc test.c 
+#1594824210
+./a.out 
+#1594824213
+ll
+#1594824236
+rm core.29584 core.30406 core.31332 
+#1594824238
+ll
+#1594824253
+vim test.c 
+#1594824383
+gcc test.c 
+#1594824386
+./a.out 
+#1594824396
+vim test.c 
+#1594824423
+gcc test.c 
+#1594824428
+vim test.c '
+'
+#1594824466
+./a.out 
+#1594824474
+vim test.c '
+''
+vim test.c '
+#1594824486
+''
+#1594824487
+ll
+#1594824489
+ls -a
+#1594824500
+rm core.32411 
+#1594824502
+ll
+#1594824505
+vi test.c 
+#1594826649
+gcc test.c 
+#1594826652
+ll
+#1594826658
+./a.out 
+#1594826668
+vi test.c 
+#1594826678
+./a.out 
+#1594826681
+vi test.c 
+#1594826702
+gcc test.c 
+#1594826705
+./a.out 
+#1594861090
+ll
+#1594861095
+vi test.c 
+#1594861161
+vi `
+`
+#1594861174
+vi test.c 
+#1594861205
+vi test.cpp
+#1594861322
+g++ test.cpp 
+#1594861327
+vi test.cpp
+#1594861343
+g++ test.cpp 
+#1594861346
+./a.out 
+#1594861395
+vi test.cpp
+#1594861406
+g++ test.cpp 
+#1594861416
+:w
+#1594861419
+g++ test.cpp 
+#1594861424
+vi test.cpp
+#1594861437
+g++ test.cpp 
+#1594861441
+./a.out 
+#1594867270
+ll
+#1594867283
+mkdir UNP
+#1594867302
+vim getSerTime.c
+#1594867394
+mv getSerTime.c ./UNP/getSerTime.c
+#1594867396
+cd UNP/
+#1594867398
+ll
+#1594867401
+gcc getSerTime.c 
+#1594868782
+cd ..
+#1594868783
+ll
+#1594868792
+vi test.c
+#1594868871
+gcc test.c
+#1594868873
+./a.out 
+#1594868885
+gcc test.c
+#1594868890
+vi test.c
+#1594868902
+gcc test.c
+#1594868905
+./a.out 
+#1595339631
+ll
+#1595339637
+cd Test_Socket/
+#1595339638
+ll
+#1595339749
+alais
+#1595339754
+alias
+#1595339777
+which
+#1595339803
+ll
+#1595339858
+vi echosrv2.c 
+#1595340173
+cp echocli.c p2pcli.c
+#1595340188
+cp echosrv.c p2pser.c
+#1595340190
+ll
+#1595340223
+vi p2pser.c 
+#1595341660
+kill -l
+#1595341785
+vi p2pser.c 
+#1595342959
+ll
+#1595342963
+vi M
+#1595342971
+vi Makefile 
+#1595343005
+vi Makefile 
+#1595343020
+make
+#1595343045
+ls
+#1595343069
+vi p2pcli.c 
+#1595343770
+vi Makefile 
+#1595343800
+make
+#1595343828
+vi p2pcli.c 
+#1595343860
+make
+#1595344057
+cd Test_Socket/
+#1595344060
+ll
+#1595344071
+./p2pser 
+#1595344079
+./p2pcli 
+#1595344201
+vi p2pser.c 
+#1595344657
+make
+#1595344314
+vi p2pcli.c 
+#1595344683
+./p2pser 
+#1595344718
+ps -aux|grep p2p
+#1595344760
+netstat -ap|grep p2p
+#1595344808
+kill -9 15173
+#1595344822
+kill -9 15200
+#1595344826
+netstat -ap|grep p2p
+#1595344830
+ps -aux|grep p2p
+#1595344838
+./p2pser 
+#1595344847
+./p2pcli 
+#1595344888
+ps -aux|grep p2p
+#1595344895
+ps -aux|grep p2p
+#1595344933
+netstat -ap|grep p2p
+#1595344943
+kill -9 17687
+#1595344950
+kill -9 17712
+#1595344953
+netstat -ap|grep p2p
+#1595344957
+ps -aux|grep p2p
+#1595379571
+ll
+#1595379575
+exit
+#1595380847
+ll
+#1595380852
+vi test.c
+#1595380917
+gcc test.c
+#1595380923
+./a.out 
+#1595380944
+vi test.c
+#1595380961
+gcc test.c
+#1595380963
+./a.out 
+#1595380979
+vi test.c
+#1595381008
+gcc test.c
+#1595381011
+./a.out 
+#1595381020
+vi test.c
+#1595388391
+ll
+#1595388394
+vi test.c
+#1595388507
+gcc  test.c
+#1595388510
+./a.out 
+#1595388524
+ll
+#1595388540
+gdb a.out core.31636 
+#1595388639
+ll
+#1595388652
+rm core.31636 
+#1595388655
+vi test.c
+#1595388687
+gcc test.c
+#1595388689
+./a.out 
+#1595388696
+vi test.c
+#1595388772
+gcc test.c
+#1595388775
+./a`
+`
+#1595388784
+gcc test.c
+#1595388788
+./a.out 
+#1595388802
+vi test.c
+#1595388814
+gcc test.c
+#1595388816
+./a.out 
+#1595389292
+vi test.c
+#1595389338
+gcc test.c
+#1595389342
+vi test.c
+#1595389350
+gcc test.c
+#1595389351
+./a.out 
+#1595389678
+vi test.c
+#1595389829
+gcc test.c
+#1595389831
+./a.out 
+#1595389839
+vi test.c
+#1595389864
+gcc test.c
+#1595389866
+./a.out 
+#1595389872
+:wq
+#1595390233
+uname -m
+#1595390319
+fdisk -l
+#1595404918
+ll
+#1595404921
+vi test.c
+#1595405493
+gcc test.c
+#1595405510
+vi test.c
+#1595405526
+gcc test.c
+#1595405539
+vi test.c
+#1595405597
+mv test.cpp
+#1595405604
+mv test.c test.cpp
+#1595405608
+g++ test.cpp 
+#1595405612
+./a.out 
+#1595405624
+vi test.c
+#1595405629
+vi test.cpp 
+#1595405653
+g++ test.cpp 
+#1595405664
+vi test.cpp 
+#1595405679
+g++ test.cpp 
+#1595405681
+./a.out 
+#1595406017
+vi test.cpp 
+#1595406363
+g++ test.cpp 
+#1595406365
+./a.out 
+#1595487766
+ll
+#1595496600
+cd UNP/
+#1595496601
+ll
+#1595496609
+vi getSerTime.c 
+#1595551669
+cd UNP/
+#1595551671
+ll
+#1595551680
+vi getSerTime.c 
+#1595552250
+wget -v
+#1595552261
+wget --help
+#1595552275
+wget -V
+#1595552695
+ll
+#1595552701
+cd /
+#1595552703
+ll
+#1595552710
+cd lib
+#1595552712
+ll
+#1595552735
+ll
+#1595552742
+cd cpp
+#1595553241
+cd ~
+#1595553242
+ll
+#1595553257
+wget -P ~ http://www.unpbook.com/unpv13e.tar.gz
+#1595553280
+ll
+#1595553307
+mv unpv13e.tar.gz UNP/
+#1595553309
+ll
+#1595553313
+cd UNP/
+#1595553314
+ll
+#1595553340
+tar -xzvf unpv13e.tar.gz 
+#1595553344
+ll
+#1595553359
+cd unpv13e/
+#1595553359
+ll
+#1595553378
+ls 
+#1595553388
+ls -a
+#1595553404
+vi README 
+#1595553504
+cd sock
+#1595553505
+ll
+#1595553514
+vi sock.h
+#1595553547
+cd ..
+#1595553549
+ll
+#1595553583
+clear
+#1595553586
+ll
+#1595553589
+clear
+#1595553592
+ls 
+#1595553608
+vi configure
+#1595553671
+./configure 
+#1595553698
+ls
+#1595553702
+cd lib
+#1595553703
+ll
+#1595553707
+ls
+#1595553720
+vi Makefile 
+#1595553743
+make
+#1595553751
+df -h
+#1595553887
+ll
+#1595553897
+vi unp.h
+#1595553964
+ls
+#1595553991
+ls *.a
+#1595554012
+cd ..
+#1595554014
+ls
+#1595554089
+cd /usr/include
+#1595554092
+ll
+#1595554094
+ls
+#1595554119
+cd linux
+#1595554121
+ll
+#1595554125
+ls 
+#1595554150
+cd ..
+#1595554154
+ls
+#1595554161
+ls -a
+#1595554165
+ll
+#1595554207
+cd ~
+#1595554209
+ll
+#1595554213
+cd UNP/
+#1595554214
+ll
+#1595554220
+cd unpv13e/
+#1595554221
+ll
+#1595554223
+ls
+#1595554333
+ln -s libunp.a /usr/lib
+#1595554345
+sudo ln -s libunp.a /usr/lib
+#1595554357
+cd /usr/lib
+#1595554358
+ls
+#1595554362
+ll
+#1595554449
+sudo rm libunp.a 
+#1595554451
+ll
+#1595554460
+cd -
+#1595554462
+ll
+#1595554503
+cd -
+#1595554507
+ls -a
+#1595554509
+ll 
+#1595554526
+cd -
+#1595554528
+ll
+#1595554530
+ls
+#1595554565
+ln ./libunp.a /usr/lib/
+#1595554583
+sudo ln ./libunp.a /usr/lib/
+#1595554590
+cd -
+#1595554593
+ll
+#1595554707
+rm libunp.a 
+#1595554734
+sudo rm libunp.a 
+#1595554736
+ll
+#1595554740
+cd -
+#1595554763
+ln -s ./libunp.a /usr/lib
+#1595554769
+sudo ln -s ./libunp.a /usr/lib
+#1595554776
+cd -
+#1595554778
+ll
+#1595554793
+rm libunp.a 
+#1595554801
+sudo rm libunp.a 
+#1595554803
+cd -
+#1595554852
+sudo ln -s ~/libunp.a /usr/lib
+#1595554855
+cd -
+#1595554857
+ll
+#1595554872
+rm libunp.a 
+#1595554883
+sudo rm libunp.a 
+#1595554884
+ll
+#1595554887
+cd -
+#1595554917
+sudo ln -s ~/UNP/unpv13e/libunp.a /usr/lib
+#1595554920
+cd -
+#1595554921
+ll
+#1595554939
+cd -
+#1595554941
+ll
+#1595555079
+cd lib
+#1595555081
+ll
+#1595555083
+ls 
+#1595555097
+vi unp.h
+#1595555308
+ll unp.h
+#1595555403
+sudo ln -s ~/UNP/unpv13e/lib/unp.h /usr/include/
+#1595555426
+cd /usr/include
+#1595555427
+ll
+#1595555433
+cd -
+#1595555441
+cd ~/UNP/
+#1595555443
+ll
+#1595555465
+vi getSerTime.c 
+#1595555524
+gcc getSerTime.c 
+#1595555578
+ll
+#1595555580
+cd unpv13e/
+#1595555583
+cd lib
+#1595555585
+ll
+#1595555590
+ls
+#1595555609
+cd ..
+#1595555611
+ls
+#1595555662
+sudo ln -s ~/UNP/unpv13e/config.h /usr/include
+#1595555666
+cd -
+#1595555670
+cd -
+#1595555677
+cd /usr/include
+#1595555679
+ll
+#1595555695
+cd -
+#1595555699
+cd ..
+#1595555705
+gcc getSerTime.c 
+#1595555727
+vi getSerTime.c 
+#1595555778
+ll
+#1595555784
+gcc getSerTime.c 
+#1595556092
+ll
+#1595556098
+cd Test_Socket/
+#1595556100
+ll
+#1595555804
+vi getSerTime.c 
+#1595557492
+gcc getSerTime.c 
+#1595557517
+vi getSerTime.c 
+#1595557570
+gcc getSerTime.c 
+#1595557596
+ls
+#1595557669
+vi unpv13e
+#1595557688
+cd unpv13e/
+#1595557689
+ll
+#1595557692
+cd 
+#1595557696
+cd -
+#1595557698
+ls
+#1595557758
+cd t
+#1595557763
+cd test/
+#1595557765
+ll
+#1595557791
+cd ..
+#1595557801
+cd intro
+#1595557804
+ll
+#1595557834
+vi daytimetcpcli.c 
+#1595557855
+vi Makefile 
+#1595557894
+cd ..
+#1595557906
+ls
+#1595557918
+vi Make.defines
+#1595558011
+cd -
+#1595558013
+ll
+#1595558024
+vi Makefile 
+#1595558819
+make daytimetcpcli
+#1595558823
+ls
+#1595558828
+./daytimetcpcli 
+#1595558850
+cd UNP/
+#1595558853
+ll
+#1595558856
+cd unpv13e/
+#1595558870
+cd intro
+#1595558872
+ll
+#1595558903
+./daytimetcpcli 206.168.112.96
+#1595559045
+./daytimetcpcli 127.0.0.1
+#1595559086
+./daytimetcpcli 119.75.217.109
+#1595559228
+telnet 119.45.51.135 13
+#1595559249
+nc 119.45.51.135 13
+#1595559447
+netstat -aptn
+#1595559507
+netstat -nupl
+#1595559515
+netstat -ntpl
+#1595561038
+ll
+#1595561046
+make clean
+#1595561048
+ll
+#1595556115
+vi echosrv.c 
+#1595561055
+vi daytimetcpcli.c 
+#1595573928
+clear'
+\
+
+`
+`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+]
+\
+'
+#1595573964
+ll
+#1595573988
+cd UNP/
+#1595573989
+ll
+#1595573994
+cd unpv13e/
+#1595573995
+ll
+#1595574000
+cd lib
+#1595574002
+ll
+#1595574003
+ls
+#1595574036
+vi wrappthread.c
+#1595574171
+cd /usr/include
+#1595574173
+ll
+#1595574174
+ls
+#1595574202
+vi errno.h 
+#1595576131
+cd -
+#1595576133
+ll
+#1595576136
+cd ..
+#1595576137
+ls
+#1595576187
+cd intro/
+#1595576189
+ll
+#1595576302
+cd Test_Socket/
+#1595576303
+ll
+#1595576329
+make clean
+#1595576338
+ll
+#1595576212
+vi daytimetcpcli.c 
+#1595579741
+ll
+#1595579745
+cd UNP/
+#1595579746
+ll
+#1595579749
+cd unpv13e/
+#1595579750
+ls
+#1595579755
+cd intro/
+#1595579757
+ll
+#1595579773
+cd Test_Socket/
+#1595579774
+ll
+#1595580950
+vi Makefile 
+#1595581119
+cd ..
+#1595581130
+vi Make.defines
+#1595581608
+cd -
+#1595581609
+ll
+#1595581623
+make daytimetcpsrv
+#1595581625
+ll
+#1595582061
+./daytimetcpsrv 
+#1595582079
+sudo ./daytimetcpsrv 
+#1595582311
+ll
+#1595582317
+make clean
+#1595582320
+ll
+#1595582412
+ps aux
+#1595582444
+ps aux|grep day
+#1595582473
+kill -9 243312
+#1595582492
+kill -9 6516
+#1595582507
+netstat -p
+#1595578183
+vi daytimetcpsrv.c 
+#1595576349
+vi echosrv.c 
+#1595579784
+vi echocli.c 
+#1595645257
+ll
+#1595645971
+man 
+#1595645980
+man 2 read
+#1595645991
+man read
+#1595663605
+ll
+#1595663614
+cd /usr
+#1595663615
+ll
+#1595663623
+cd include
+#1595663624
+ll
+#1595663626
+ls
+#1595663642
+ls -s
+#1595663649
+ls -a
+#1595663653
+ls -l
+#1595663679
+cd ..
+#1595663680
+ll
+#1595663684
+cd games/
+#1595663686
+ll
+#1595663688
+cd ..
+#1595663695
+cd src
+#1595663696
+ll
+#1595663699
+cd kernels/
+#1595663701
+ll
+#1595663707
+cd ..
+#1595663709
+cd ..
+#1595663710
+ll
+#1595663715
+cd lib
+#1595663717
+ll
+#1595663721
+ls
+#1595663725
+cd cpp
+#1595663736
+ls -F
+#1595663747
+vi cpp
+#1595663753
+cd cpp
+#1595663763
+cd gcc
+#1595663765
+ll
+#1595663767
+cd x86_64-redhat-linux/
+#1595663768
+ll
+#1595663780
+cd 4.8.2
+#1595663782
+ll
+#1595663788
+ls 
+#1595663796
+cd ../..
+#1595663798
+ll
+#1595663800
+cd ..
+#1595663802
+ll
+#1595663811
+cd ..
+#1595663812
+ls
+#1595663826
+cd include/
+#1595663828
+ls
+#1595663844
+cd ..
+#1595663845
+ls
+#1595663850
+cd etc/
+#1595663850
+ll
+#1595663860
+cd src
+#1595663861
+ll
+#1595663866
+sudo ls
+#1595663871
+ll
+#1595681429
+man
+#1595681437
+man sleep
+#1595681457
+man 2 sleep
+#1595770497
+ll
+#1595770507
+cd Test_Socket/
+#1595770508
+ll
+#1595770556
+mv ./* echo_ser_cli
+#1595770577
+mkdir echo_ser_cli
+#1595770580
+mv ./* echo_ser_cli
+#1595770589
+ll
+#1595770957
+ll
+#1595771038
+cp echo_ser_cli/ readn_writen_echo
+#1595771043
+ll
+#1595771101
+cp echo_ser_cli/ readn_writen_echo -r
+#1595771104
+ll
+#1595771146
+cd readn_writen_echo/
+#1595771147
+ll
+#1595771181
+rm p2p* echosrv2.c 
+#1595771184
+ll
+#1595771191
+vi test.c 
+#1595771198
+rm test.c 
+#1595771210
+ll
+#1595771251
+cd ..
+#1595771252
+ll
+#1595771270
+cd echo_ser_cli/
+#1595771271
+ll
+#1595771307
+cp echosrv2.c ../readn_writen_echo/echosrv2.c 
+#1595771312
+cd ../readn_writen_echo/
+#1595771313
+ll
+#1595771360
+rm echocli2.c echosrv.c 
+#1595771363
+ll
+#1595771378
+mv echosrv2.c echosrv.c 
+#1595771379
+ll
+#1595771384
+vi Makefile 
+#1595771402
+vi Makefile 
+#1595771434
+make
+#1595771436
+ll
+#1595771439
+make
+#1595771443
+make
+#1595771451
+make clean
+#1595771453
+ll
+#1595771456
+vi Makefile 
+#1595771609
+vi echosrv.c 
+#1595773620
+make
+#1595773632
+vi echosrv.c 
+#1595773648
+make
+#1595774014
+cd Test_Socket/readn_writen_echo/
+#1595774021
+vi echocli.c 
+#1595773722
+vi echosrv.c 
+#1595810354
+ll
+#1595810363
+./a.out 
+#1595810369
+rm a.out 
+#1595834532
+ll
+#1595834540
+vi test.cpp 
+#1595834549
+ll
+#1595834556
+clear
+#1595834557
+ll
+#1595834571
+vi test01.
+#1595834578
+vi test01.c
+#1595834648
+ll
+#1595834657
+gcc test01.c 
+#1595834660
+./a.out 
+#1595834685
+ps -aux
+#1595834692
+ps -aux|./a.out 
+#1595834703
+ps -aux|a.out 
+#1595834719
+ps -aux|grep out
+#1595834740
+netstat -p
+#1595843196
+ll
+#1595843204
+cd /var
+#1595843205
+ll
+#1595843215
+cd log
+#1595843217
+ll
+#1595843228
+vi messages 
+#1595843259
+sudo vi messages 
+#1595847521
+cd /etc
+#1595847522
+ll
+#1595847528
+ls -a
+#1595847541
+vi passwd
+#1595847796
+ll
+#1595847820
+alias
+#1595847825
+set -l
+#1595847836
+set
+#1595834780
+vi test01.c 
+#1595853222
+man STL
+#1595853228
+man vector
+#1595853239
+man iostream
+#1595853332
+ sudo apt-get install manpages
+#1595853350
+ll
+#1595853353
+cd Test_Socket/
+#1595853355
+ll
+#1595853621
+cp readn_writen_echo/ recv_send/ -r
+#1595853623
+ll
+#1595853651
+cd recv_send/
+#1595853654
+ll
+#1595853659
+make clear
+#1595853661
+ll
+#1595853670
+make clean
+#1595853673
+ll
+#1595854836
+ll
+#1595854853
+cd Test_Socket/recv_send/
+#1595854854
+ll
+#1595854860
+ll -a
+#1595854867
+vi echosrv.c 
+#1595854878
+rm .echosrv.c.swp 
+#1595856731
+ll
+#1595856738
+cd Test_Socket/recv_send/
+#1595856739
+ll
+#1595856742
+ll -a
+#1595856747
+vi echosrv.c 
+#1595856760
+rm .echosrv.c.swp 
+#1595856762
+vi echosrv.c 
+#1595857402
+cd Test_Socket/readn_writen_echo/
+#1595857404
+vi echosrv
+#1595857409
+vi echosrv.c 
+#1595856886
+vi echosrv.c 
+#1595853740
+vi echosrv.c 
+#1595854881
+vi echosrv.c 
+#1595897787
+ll
+#1595897801
+cd Test_Socket/
+#1595897808
+cd recv_send/
+#1595897809
+ll
+#1595897812
+ll -a
+#1595898357
+cd Test_Socket/recv_send/
+#1595897822
+vi echosrv.c 
+#1595898363
+vi echocli.c 
+#1595898924
+cd ../readn_writen_echo/
+#1595898926
+ll
+#1595898934
+vi echoclil.
+#1595898956
+vi echocli.c 
+#1595899064
+cd -
+#1595899070
+vi echocli.c 
+#1595899777
+vi echocli.c 
+#1595900071
+ll
+#1595900073
+make
+#1595900151
+cd Test_Socket/recv_send/
+#1595900157
+vi echosrv.c 
+#1595900216
+vi echosrv.c 
+#1595900276
+make
+#1595900272
+vi echosrv.c 
+#1595900465
+make
+#1595900468
+ll
+#1595900479
+make
+#1595900487
+make clean
+#1595900489
+make
+#1595900646
+make
+#1595900678
+make
+#1595900680
+ll
+#1595900537
+vi echocli.c 
+#1595900708
+./echocli 
+#1595900695
+./echosrv 
+#1595900751
+ps -aux|grep echocli
+#1595900790
+ps -aux|grep echo
+#1595900819
+netstat -ap|grep echo
+#1595900844
+kill -9 11870
+#1595900856
+kill -9 11924
+#1595900865
+kill -9 11923
+#1595900868
+netstat -ap|grep echo
+#1595903376
+cd Test_Socket/recv_send/
+#1595903383
+vi echocli
+#1595903391
+make clean
+#1595903745
+cd Test_Socket/recv_send/
+#1595903396
+vi echocli.c 
+#1595904064
+make
+#1595903749
+vi echosrv.c 
+#1595904091
+./echocli 
+#1595904084
+./echosrv 
+#1595904110
+ll
+#1595904126
+gdb echocli core.22670 
+#1595904249
+ll
+#1595904254
+vi echocli
+#1595904259
+vi echocli.c 
+#1595904293
+rmm core.22670 
+#1595904298
+rm core.22670 
+#1595904300
+ll
+#1595904309
+make clean
+#1595904312
+make
+#1595904323
+./echosrv 
+#1595904413
+vi echosrv.c 
+#1595904906
+vi echosrv.c 
+#1595905347
+./echosrv 
+#1595905367
+netstat -ap|grep echo
+#1595905386
+kill -9 22652
+#1595905391
+./echosrv 
+#1595905397
+./echocli 
+#1595905525
+netstst -tunlp|grep echi\o
+#1595905530
+netstst -tunlp|grep echo
+#1595905540
+netstst -lp|grep echo
+#1595905560
+netstst -lp
+#1595905585
+netstat -tunlp|gerp echo
+#1595905598
+netstat -lp|gerp echo
+#1595905607
+netstat -lp
+#1595905642
+netstat -p
+#1595905682
+netstat -p|gerp echo
+#1595905696
+netstat -p|grep echo
+#1595905714
+kill -9 26963
+#1595905717
+kill -9 26964
+#1595905724
+netstat -p|grep echo
+#1595905794
+make clean
+#1595906837
+clear
+#1595906848
+ll
+#1595906856
+cd Test_Socket/recv_send/
+#1595906858
+ll
+#1595906871
+cp echosrv.c getip.c
+#1595906880
+vi getip.c 
+#1595907071
+apt-get
+#1595907138
+yum install manpage
+#1595907151
+sudo yum install manpage
+#1595907272
+yum list
+#1595907365
+yum list installed
+#1595907448
+kill -9 597
+#1595907457
+yum list installed
+#1595907590
+dfv -h
+#1595907593
+df -h
+#1595907678
+yum search dev
+#1595907760
+yum search manpages
+#1595907792
+yum info manpages
+#1595907883
+rpm -qa
+#1595907899
+rpm -qa|grep man
+#1595908275
+yum search apt
+#1595908322
+rpm apt
+#1595908379
+apt -v
+#1595905800
+vi echosrv.c 
+#1595905807
+vi echocli.c 
+#1595919514
+ll
+#1595919521
+cd Test_Socket/
+#1595919524
+cd recv_send/
+#1595919526
+ll
+#1595919535
+vi getip.c 
+#1595920455
+vi Makefile 
+#1595920501
+vi Makefile 
+#1595920522
+echo $HISTORYSIZE
+#1595920531
+ll
+#1595920534
+make
+#1595920554
+l
+#1595920556
+ll
+#1595920560
+./getip 
+#1595920645
+echo $HISTSIZE
+#1595920683
+cd /etc
+#1595920685
+ll
+#1595920686
+ls
+#1595921899
+root123
+#1595921905
+ll
+#1595921907
+cd ~
+#1595921909
+ll
+#1595921915
+cd Test_Socket/
+#1595921916
+ll
+#1595921918
+cd recv_send/
+#1595921920
+ll
+#1595921926
+ll
+#1595921934
+./getip 
+#1595921943
+vi getip.c 
+#1595921979
+ll
+#1595922025
+ll
+#1595922028
+cd Test_Socket/
+#1595922029
+ll
+#1595922035
+cd recv_send/
+#1595922036
+ll
+#1595922041
+cd get.
+#1595922048
+vi getip.c 
+#1595922500
+make
+#1595922505
+:q
+#1595922507
+vi getip.c 
+#1595922533
+make
+#1595922537
+./getip 
+#1595922544
+vi getip.c 
+#1595922684
+make
+#1595922687
+./getip 
+#1595922868
+apt-get
+#1595922919
+cat /proc/version
+#1595923228
+cat /usr/share/man
+#1595923245
+ls /usr/share/man
+#1595923273
+man man
+#1595923365
+man -a
+#1595923374
+man -ls
+#1595923441
+man main
+#1595923595
+yum search manpages
+#1595923726
+man printf
+#1595923858
+man std::cout
+#1595923883
+man std::iostream
+#1595924065
+yum search man
+#1595924079
+ll
+#1595924099
+yum search man > text
+#1595924102
+ll
+#1595924105
+vi text 
+#1595924172
+rm text 
+#1595924184
+yum search manpage-de
+#1595924622
+yun search man-pages
+#1595924631
+yum search man-pages
+#1595924744
+man ls
+#1595925438
+yum install man-pages libstdc++-docs
+#1595925447
+sudo yum install man-pages libstdc++-docs
+#1595925471
+man socket
+#1595925652
+man gethostbyname
+#1595925679
+man gethostname
+#1595925798
+vi getip
+#1595925804
+mak clean
+#1595925806
+ll
+#1595925811
+make clean
+#1595925828
+vi getip.c 
+#1595925924
+man gethostname
+#1595926177
+man setsockopt
+#1595927117
+man netstat
+#1595927197
+netstat -ni
+#1595927279
+netstat -r
+#1595927345
+ifconfig eth0
+#1595929034
+ping 10.206.0.0
+#1595929148
+ping -b 10.206.0.0
+#1595929190
+ping -b 10.206.0.5
+#1595939096
+man accept
+#1596008142
+cd Test_Socket/
+#1596008142
+ll
+#1596008149
+cd recv_send/
+#1596008150
+ll
+#1596008368
+cd ..
+#1596008439
+cp recv_send/ recv_send_pro -r
+#1596008445
+cd recv_send_pro/
+#1596008446
+ll
+#1596008452
+rm getip.c 
+#1596008459
+vi Makefile 
+#1596008518
+make clean
+#1596008520
+ll
+#1596008548
+vi echosrv.c 
+#1596008644
+make
+#1596008646
+ll
+#1596008663
+make clean
+#1596008697
+vi echocli.c 
+#1596009492
+make
+#1596009495
+ll
+#1596009517
+cd Test_Socket/recv_send_pro/
+#1596009529
+./echoc
+#1596009536
+./echocli 
+#1596009524
+./echosrv 
+#1596009711
+ps -efLgrep echosrv
+#1596009732
+ps -ef|grep echosrv
+#1596009778
+man signal
+#1596009927
+./echosrv 
+#1596009949
+ps -ef|grep echo
+#1596009921
+./echocli 
+#1596011288
+ll
+#1596011396
+ps -ef|grep echo
+#1596011732
+tree
+#1596011943
+netstat -p|grep echo
+#1596011960
+netstat -ph|grep echo
+#1596011977
+netstat -pl|grep echo
+#1596011989
+netstat -pa|grep echo
+#1596012025
+netstat -epa|grep echo
+#1596012041
+netstat -epa|grep echo
+#1596012103
+netstat -anp|grep echo
+#1596012244
+ll
+#1596013208
+cd Test_Socket/recv_send_pro/
+#1596013209
+LL
+#1596013215
+ll
+#1596013220
+make clean
+#1596013222
+ll
+#1596013256
+man sinale
+#1596013225
+vi echosrv.c 
+#1596013391
+make
+#1596013263
+man signal
+#1596013430
+cd Test_Socket/recv_send_pro/
+#1596013436
+./echosrv 
+#1596013407
+./echocli 
+#1596013470
+netstat -anp|grep echo
+#1596013489
+kill -9 12524
+#1596013497
+kill -9 3361
+#1596013502
+kill -9 4310
+#1596013509
+kill -9 3379
+#1596013517
+kill -9 3380
+#1596013522
+netstat -anp|grep echo
+#1596013530
+./echocli 
+#1596013552
+./echocli 
+#1596013600
+ps -ef|grep echo
+#1596013637
+netstat -anp|grep echo
+#1596013651
+kill -9 12858
+#1596013546
+./echosrv 
+#1596013658
+kill -9 12876
+#1596013661
+kill -9 12875
+#1596013664
+netstat -anp|grep echo
+#1596013689
+cd..
+#1596013692
+cd ..
+#1596013693
+ll
+#1596013698
+cd echo_ser_cli/
+#1596013699
+ll
+#1596013705
+vi echosrv.c 
+#1596014150
+ll
+#1596014155
+make
+#1596014156
+ll
+#1596014231
+cd ~/Test_Socket/echo_ser_cli/
+#1596014219
+./echosrv
+#1596014236
+./echocli
+#1596014264
+./echosrv
+#1596014299
+vi echo
+#1596014311
+vi echosrv
+#1596014317
+make clean
+#1596014318
+ll
+#1596014323
+vi echosrv.c 
+#1596014397
+vi echosrv.c 
+#1596014431
+make
+#1596014455
+vi echosrv.c 
+#1596014481
+make
+#1596014483
+ll
+#1596014491
+./echosrv
+#1596014527
+netstat -anp|grep echo
+#1596014536
+kill -9 14517
+#1596014552
+kill -9 14574
+#1596014557
+netstat -anp|grep echo
+#1596014563
+./echosrv
+#1596014575
+./echocli
+#1596014602
+./echosrv
+#1596014624
+./echosrv
+#1596014628
+netstat -anp|grep echo
+#1596014637
+kill -9 15451
+#1596014643
+kill -9 15472
+#1596014646
+netstat -anp|grep echo
+#1596014660
+ll
+#1596014666
+make clean
+#1596014667
+ll
+#1596014680
+man setsockopt
+#1596015422
+vi echosrv.c 
+#1596016033
+man man
+#1596259589
+ll
+#1596260276
+cd /etc/ssh
+#1596260276
+ll
+#1596260284
+vi ssh_config 
+#1596260372
+ll -a
+#1596260397
+sudo 
+#1596260399
+su
+#1596260414
+su
+#1596260530
+ll
+#1596260535
+cd ~
+#1596260536
+ll
+#1596260546
+rm a.out core
+#1596260553
+rm a.out core.32611 
+#1596260557
+ll
+#1596260562
+cd Test_Socket/
+#1596260563
+ll
+#1596260569
+cd echo_ser_cli/
+#1596260570
+ll
+#1596260576
+vi echocli.c 
+#1596444261
+ll
+#1596444266
+cd /
+#1596444266
+ll
+#1596444272
+cd run
+#1596444273
+ll
+#1596444297
+vi YDService.pid 
+#1596444309
+ll
+#1596444315
+cd ..
+#1596444318
+cd ~
+#1596444319
+ll
+#1596444323
+cd Test_Socket/
+#1596444324
+ll
+#1596448403
+ exit
+#1596786530
+ll
+#1596786539
+cd UNP/
+#1596786541
+ll
+#1596786564
+cd unpv13e/
+#1596786565
+ll
+#1596786575
+cd ..
+#1596786577
+ll
+#1596786595
+df -h
+#1596786648
+cd..
+#1596786650
+cd..
+#1596786652
+cd ..
+#1596786653
+ll
+#1596786697
+clear
+#1596786699
+ll
+#1596786704
+cd UNP/
+#1596786706
+ll
+#1596786806
+rm unpv13e.tar.gz 
+#1596786815
+rm -rf unpv13e/
+#1596786816
+ll
+#1596786819
+cd ..
+#1596786820
+ll
+#1596786826
+cd IOfile/
+#1596786827
+ll
+#1596786833
+vi test.cpp 
+#1596786841
+ll
+#1596786845
+clear
+#1596786932
+cd 
+#1596786934
+\\
+#1596786943
+ll
+#1596786946
+cd ~
+#1596786948
+ll
+#1596786961
+cd get_set_EVN/
+#1596786962
+ll
+#1596786977
+cd T
+#1596786980
+cd T
+#1596786990
+cd ../Test_Socket/
+#1596786991
+ll
+#1596787022
+cd
+#1596787023
+ll
+#1596787026
+clear
+#1596787027
+ll
+#1596787042
+cd get_set_EVN/
+#1596787043
+ll
+#1596787051
+cd ..
+#1596787054
+rm get_set_EVN/
+#1596787061
+rm get_set_EVN/ -rf
+#1596787063
+ll
+#1596787113
+vi tt
+#1596787116
+ll
+#1596787125
+vi test.cpp 
+#1596787153
+ll
+#1596787157
+clear
+#1596787214
+cd /
+#1596787215
+ll
+#1596787224
+cd root
+#1596787235
+su - root
+#1597058871
+ll
+#1597061989
+ll
+#1597061992
+cd T
+#1597061995
+cd Test_Socket/
+#1597061997
+LL
+#1597061999
+ll
+#1597062022
+cd recv_send_pro/
+#1597062022
+ll
+#1597062031
+vi echosrv.c 
+#1597760622
+ll
+#1597933870
+ll
+#1600262463
+ll
+#1600262486
+cd IOfile/
+#1600262487
+ll
+#1600262507
+./a.out 
+#1600262522
+cat test.cpp 
+#1600262526
+:q
+#1600262532
+ll
+#1600262537
+cat hello.txt 
+#1600262543
+./a.out 
+#1600262550
+cat hello.txt 
+#1600262560
+vi test.cpp 
+#1600263333
+cd ~
+#1600263334
+ll
+#1600267241
+ll
+#1600267247
+cd Test_Socket/
+#1600267248
+ll
+#1600267275
+cd readn_writen_echo/
+#1600267276
+ll
+#1600267291
+vi Makefile 
+#1600267337
+gdb
+#1600267347
+ll
+#1600267350
+vi 
+#1600590273
+LL
+#1600590277
+ll
+#1600590292
+pwd
+#1600590301
+cd cppLearn/
+#1600590302
+ll
+#1600590316
+cd ../Test_Socket/
+#1600590317
+ll
+#1600590321
+cd echo_ser_cli/
+#1600590322
+l
+#1600590325
+pwd
+#1600590339
+cd ~
+#1600590340
+ll
+#1600590360
+ln -s /home/zhiqiang/Test_Socket/echo_ser_cli toEcho
+#1600590362
+ll
+#1600590367
+cd toEcho/
+#1600590370
+pwd
+#1600590395
+cd ~
+#1600590403
+rm -rf toEcho/
+#1600590404
+ll
+#1600590410
+ll
+#1600590417
+cd toEcho/
+#1600590418
+ll
+#1600590509
+cd ~
+#1600590518
+rm -rf ./toEcho
+#1600590519
+ll
+#1602740004
+ll
+#1602740006
+ls
+#1602740009
+cd ~
+#1602740011
+ll
+#1602742998
+cd ~
+#1602742999
+ll
+#1602743003
+cd coreTest/
+#1602743004
+ll
+#1602743011
+cd GDB/
+#1602743012
+ll
+#1602743019
+vi index.html 
+#1602743036
+ls
+#1602743041
+rm index.html 
+#1602743042
+ll
+#1602743054
+alias
+#1602743063
+vi test.c 
+#1602743070
+vi test.c 
+#1602743123
+history 
+#1602743147
+ll
+#1602743150
+cd ~
+#1602743150
+ll
+#1602743222
+history 
+#1602743268
+echo $HISTORY
+#1602743293
+echo $HISTSIZE
+#1602743359
+cd ~
+#1602743360
+ll
+#1602743363
+ll -a
+#1602743372
+vi .bash_history 
+#1602743398
+ll
+#1602743402
+ll -a
+#1602743410
+vi .config/
+#1602744267
+$HISTSIZE
+#1602744274
+echo $HISTSIZE
+#1602744284
+cd ~
+#1602744286
+ll
+#1602744288
+ll -a
+#1602744300
+vi .config/
+#1602744307
+ll
+#1602744318
+cd .config/
+#1602744319
+ll
+#1602744324
+xs abrt/
+#1602744325
+ll
+#1602744331
+cd abrt/
+#1602744333
+ll
+#1602744336
+ll -a
+#1602744339
+cd ..
+#1602744340
+ll
+#1602744341
+cd ..
+#1602744342
+ll
+#1602744346
+la -a
+#1602744349
+ls -a
+#1602744370
+vi .bash_profile 
+#1602744495
+ll
+#1602744497
+cd ~
+#1602744498
+ll
+#1602744501
+cd cppLearn/
+#1602744502
+ll
+#1602744524
+vi Makefile.alpha 
+#1602744531
+ll
+#1602744551
+vi Makefile
+#1602744618
+make cdhome
+#1602744626
+pwd
+#1602744647
+make test
+#1602744665
+makeclean
+#1602744669
+make clean
+#1602744671
+ll
+#1602744677
+make
+#1602744680
+ll
+#1602744724
+make clean
+#1602744726
+ll
+#1602744743
+cd ..
+#1602744743
+ll
+#1602744750
+vi Makefile 
+#1602744767
+ll
+#1602744784
+cd IOfile/
+#1602744785
+ll
+#1602744792
+vi test.cpp 
+#1602744818
+cd ~
+#1602744819
+ll
+#1602744823
+ll -a
+#1602744831
+vi .vim
+#1602744838
+vi .vimrc 
+#1602744857
+ll
+#1602744860
+cd IOfile/
+#1602744861
+ll
+#1602744864
+vi test.cpp 
+#1602743425
+su - root
+#1602748308
+ll -a
+#1602748314
+vi .bashrc 
+#1602748411
+. .bashrc 
+#1602748420
+vi .bashrc 
+#1602748432
+. .bashrc 
+#1602748436
+ll
+#1602748452
+cp test.cpp ./..
+#1602748468
+cp test.cpp ../
+#1602748482
+cd UNP/
+#1602748484
+ll
+#1602748487
+cd ..
+#1602748496
+cp test.cpp UNP/
+#1602748501
+ll
+#1602748505
+cd UNP/
+#1602748507
+ll
+#1602748512
+rm test.cpp 
+#1602748518
+ll
+#1602748646
+stty -a
+#1603077192
+ll
+#1603077222
+cd c
+#1603077225
+cd cppLearn/
+#1603077227
+ll
+#1603077240
+cd ..
+#1603077243
+vi Makefile 
+#1603077259
+ll
+#1603077264
+clean
+#1603077268
+clear
+#1603077271
+ll
+#1603077277
+make
+#1603077294
+cd cppLearn/
+#1603077296
+ll
+#1603077304
+make
+#1603077312
+ll
+#1603077318
+make clean
+#1603077321
+ll
+#1603077325
+vi Makefile
+#1603077349
+vi ../Makefile 
+#1603077375
+vi m
+#1603077391
+vi Makefile
+#1603077429
+make
+#1603077432
+ll
+#1603077510
+./all 
+#1603077526
+vi gao2.cpp 
+#1603077531
+ll
+#1603077538
+vi gao.cpp 
+#1603077555
+ll
+#1603077559
+./test.cpp 
+#1603077574
+rm test.cpp 
+#1603077592
+rm test.cpp 
+#1603077599
+ll
+#1603077605
+rm test.o 
+#1603077609
+ll
+#1603077611
+vi m
+#1603077621
+ll
+#1603077627
+vi Makefile
+#1603077643
+ll
+#1603077649
+make
+#1603077675
+make clean
+#1603077680
+make
+#1603077709
+vi Makefile
+#1603077780
+ll
+#1603077786
+vi gao.h
+#1603077807
+ll
+#1603077813
+vi gao.cpp 
+#1603077833
+ll
+#1603077841
+make clean
+#1603077843
+ll
+#1603077857
+vi gao2.cpp 
+#1603077874
+ll
+#1603077896
+vi gao2.h
+#1603077906
+ll
+#1603077914
+vi Makefile
+#1603247325
+ll
+#1603247329
+cd UNP/
+#1603247330
+ll
+#1603247349
+ll -a
+#1603247353
+vi getSerTime.c 
+#1603247378
+ll
+#1603247381
+cd ..
+#1603247382
+ll
+#1603247387
+cd Test_Socket/
+#1603247389
+ll
+#1603247485
+cd ..
+#1603247486
+ll
+#1603247490
+cd UNP/
+#1603247491
+ll
+#1603247497
+g++ getSerTime.c 
+#1603248074
+man socket
+#1603258767
+ll
+#1603258774
+cd UNP/
+#1603258776
+ll
+#1603258779
+cd ..
+#1603258785
+cd ~
+#1603258786
+ll
+#1603258789
+cd /
+#1603258789
+ll
+#1603258804
+cd bin
+#1603258808
+pwd
+#1603258810
+ll
+#1603258826
+ls
+#1603258834
+cd ..
+#1603258835
+ll
+#1603258848
+cd data/
+#1603258850
+ll
+#1603258854
+cd java/
+#1603258854
+ll
+#1603258857
+ls 
+#1603258860
+cd ..
+#1603258868
+cd ho
+#1603258875
+cd ..
+#1603258879
+cd home/
+#1603258880
+ll
+#1603258889
+ls -ltr
+#1603258896
+alias
+#1603258944
+cd ..
+#1603258944
+ll
+#1603258948
+cd root/
+#1603258950
+ll
+#1603258961
+su 
+#1603282077
+ll
+#1603437882
+ll
+#1603437886
+cd ~
+#1603437887
+ll
+#1603437897
+ps -ef|grep redis
+#1603437938
+which redis
+#1603438128
+cd |xargs which redis
+#1603438135
+pwd
+#1603438147
+cd /usr/bin
+#1603438149
+ll
+#1603438218
+ls 
+#1603438247
+cd redis
+#1603438252
+vi redis
+#1603693679
+cd ~
+#1603693679
+ll
+#1603693739
+cd /root
+#1603694655
+ll
+#1603694664
+git --version
+#1603694716
+ssh-keygen -t rsa -C "your_email@youremail.com"
+#1603694733
+ssh-keygen -t rsa -C "954272009@qq.com"
+#1603694995
+ll -a
+#1603695000
+cd .ssh/
+#1603695001
+ll
+#1603695008
+vi id_rsa.pub 
+#1603695075
+ll
+#1603695077
+cd ..
+#1603695077
+ll
+#1603695100
+a.ssh -T git@github.com
+#1603693743
+su 
+#1603695683
+ll
+#1603695685
+ll -a
+#1603695706
+git init
+#1603695724
+ll -a
+#1603695730
+vi .git/
+#1603695756
+ll
+#1603695758
+ll -a
+#1603695763
+cd .git/
+#1603695764
+ll
+#1603695774
+vi HEAD 
+#1603695779
+ll
+#1603695790
+vi config 
+#1603695798
+ll
+#1603695805
+cd branches/
+#1603695806
+ll
+#1603695810
+cd ../
+#1603695812
+ll
+#1603695817
+vi description 
+#1603695826
+ll
+#1603695833
+ cd info/
+#1603695834
+ll
+#1603695838
+vi exclude 
+#1603695848
+ll
+#1603695850
+cd ..
+#1603695851
+ll
+#1603695857
+cd objects/
+#1603695860
+ll
+#1603695866
+cd ../refs/
+#1603695867
+ll
+#1603695872
+cd tags/
+#1603695873
+ll
+#1603695877
+cd ../heads/
+#1603695878
+ll
+#1603695880
+cd ../..
+#1603695880
+ll
+#1603695884
+cd ..
+#1603695886
+ll
+#1603696102
+git add .
+#1603696104
+ll
+#1603696108
+ll -a
+#1603696123
+vi .git
+#1603696136
+ll -a 
+#1603696140
+cd .git/
+#1603696143
+ll -a
+#1603696152
+cd refs/
+#1603696154
+ll -a
+#1603696158
+cd ..
+#1603696161
+cd ..
+#1603696161
+ll
+#1603696551
+git config user.name zhiqiang
+#1603696571
+git config user.email 954272009@qq.com
+#1603696592
+cd .git/
+#1603696594
+ll
+#1603696599
+vi config 
+#1603696613
+cd ..
+#1603696614
+ll
+#1603696650
+git status 
+#1603696708
+git rm --cached *
+#1603696720
+git rm -r --cached *
+#1603696729
+git status 
+#1603696749
+ll
+#1603696752
+git status 
+#1603696786
+ll 
+#1603696790
+cd ..
+#1603696791
+ll
+#1603696793
+ll -a
+#1603696796
+cd zhiqiang/
+#1603696800
+ll -a
+#1603696814
+cd .config/
+#1603696816
+ll 
+#1603696819
+cd abrt/
+#1603696820
+ll
+#1603696824
+ll -a
+#1603696828
+cd ..
+#1603696829
+ll -a
+#1603696831
+cd ..
+#1603696832
+ll
+#1603696834
+ll -a
+#1603697249
+ll
+#1603697261
+touch .gitignore
+#1603697271
+git status 
+#1603697409
+ll -a
