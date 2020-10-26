@@ -139,17 +139,21 @@ $
 	`
 
 # File marks:
-'0  1  0  ~/.cache/abrt/lastnotification
-'1  1  1  ~/.gitignore
-'2  1  0  ~/.git/config
-'3  1  0  ~/.git
-'4  1  0  ~/.git/info/exclude
-'5  1  0  ~/.git/description
-'6  1  0  ~/.git/HEAD
-'8  1  0  ~/.ssh/id_rsa.pub
-'9  1  0  /usr/bin/redis
+'0  1  0  ~/.git/COMMIT_EDITMSG
+'1  1  0  ~/.git/ORIG_HEAD
+'2  1  0  ~/.git/FETCH_HEAD
+'3  1  0  ~/.cache/abrt/lastnotification
+'4  1  1  ~/.gitignore
+'5  1  0  ~/.git/config
+'6  1  0  ~/.git
+'7  1  0  ~/.git/info/exclude
+'8  1  0  ~/.git/description
+'9  1  0  ~/.git/HEAD
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+-'  1  0  ~/.git/ORIG_HEAD
+-'  1  0  ~/.git/FETCH_HEAD
 -'  1  0  ~/.cache/abrt/lastnotification
 -'  1  1  ~/.gitignore
 -'  1  0  ~/.git/config
@@ -245,11 +249,17 @@ $
 -'  74  24  ~/Test_Socket/recv_send/echocli.c
 -'  68  1  ~/Test_Socket/recv_send/echocli.c
 -'  79  2  ~/Test_Socket/recv_send/echocli.c
--'  1  0  ~/Test_Socket/recv_send/echocli.c
--'  110  2  ~/Test_Socket/recv_send/echosrv.c
--'  91  0  ~/Test_Socket/recv_send/echosrv.c
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/.git/ORIG_HEAD
+	"	1	0
+
+> ~/.git/FETCH_HEAD
+	"	1	0
 
 > ~/.cache/abrt/lastnotification
 	"	1	0
@@ -316,17 +326,3 @@ $
 	+	21	16
 	+	22	14
 	+	17	12
-
-> ~/IOfile/test.cpp
-	"	44	0
-
-> ~/.vimrc
-	"	1	5
-	^	1	6
-	.	1	5
-	+	1	6
-	+	2	0
-	+	1	5
-
-> ~/cppLearn/Makefile.alpha
-	"	1	0
