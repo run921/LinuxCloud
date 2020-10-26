@@ -4238,3 +4238,57 @@ git commit -m "nothing"
 ll -a
 #1603698872
 vi .gitignore 
+#1603698913
+git add .
+#1603698920
+git status 
+#1603698975
+git commit -m "add *"
+#1603699004
+git push cloud master 
+#1603699191
+git push cloud master 
+#1603699298
+git pull cloud master 
+#1603699345
+git push cloud master 
+#1603699442
+git push -u origin master
+#1603699463
+git push -u cloud master
+#1603699519
+git pull cloud master 
+#1603699547
+git add *
+#1603699558
+git commit -m "hello"
+#1603699651
+git status 
+#1603699693
+ll -a
+#1603699698
+cd .cache/
+#1603699700
+ll
+#1603699702
+cd abrt/
+#1603699704
+ll
+#1603699709
+vi lastnotification 
+#1603699715
+rm lastnotification 
+#1603699722
+cd ..
+#1603699724
+cd ..
+#1603699725
+ll
+#1603699730
+git add *
+#1603699739
+git status 
+#1603699795
+git commit -m "test"
+#1603699858
+git merge master 

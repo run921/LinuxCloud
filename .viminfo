@@ -17,8 +17,8 @@
 $
 
 # Command Line History (newest to oldest):
-:wq
 :q
+:wq
 :Q
 :set nonu
 :nonu
@@ -139,17 +139,18 @@ $
 	`
 
 # File marks:
-'0  1  1  ~/.gitignore
-'1  1  0  ~/.git/config
-'2  1  0  ~/.git
-'3  1  0  ~/.git/info/exclude
-'4  1  0  ~/.git/description
-'5  1  0  ~/.git/HEAD
-'7  1  0  ~/.ssh/id_rsa.pub
-'8  1  0  /usr/bin/redis
-'9  1  0  ~/UNP/getSerTime.c
+'0  1  0  ~/.cache/abrt/lastnotification
+'1  1  1  ~/.gitignore
+'2  1  0  ~/.git/config
+'3  1  0  ~/.git
+'4  1  0  ~/.git/info/exclude
+'5  1  0  ~/.git/description
+'6  1  0  ~/.git/HEAD
+'8  1  0  ~/.ssh/id_rsa.pub
+'9  1  0  /usr/bin/redis
 
 # Jumplist (newest first):
+-'  1  0  ~/.cache/abrt/lastnotification
 -'  1  1  ~/.gitignore
 -'  1  0  ~/.git/config
 -'  1  0  ~/.git
@@ -247,9 +248,11 @@ $
 -'  1  0  ~/Test_Socket/recv_send/echocli.c
 -'  110  2  ~/Test_Socket/recv_send/echosrv.c
 -'  91  0  ~/Test_Socket/recv_send/echosrv.c
--'  1  0  ~/Test_Socket/recv_send/echosrv.c
 
 # History of marks within files (newest to oldest):
+
+> ~/.cache/abrt/lastnotification
+	"	1	0
 
 > ~/.gitignore
 	"	1	1
@@ -327,6 +330,3 @@ $
 
 > ~/cppLearn/Makefile.alpha
 	"	1	0
-
-> ~/.bash_profile
-	"	12	0
